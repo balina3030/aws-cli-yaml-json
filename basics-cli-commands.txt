@@ -1,0 +1,9 @@
+# aws configure
+use the commande to set up my aws cli configuration on my pc
+# aws s3 mb s3://bucket-name
+use to create  s3 bucket 
+# aws s3 cp file.txt s3://bucket-name
+use to copy a file or upload a file to my s3 bucket from aws cli to my aws account
+# aws s3 rm s3://bucket-name/file.txt
+use to delete file from my s3 bucket
+  
