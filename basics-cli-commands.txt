@@ -1,4 +1,4 @@
-# aws configure
+# aws configure ALPHONSIE
 use the commande to set up my aws cli configuration on my pc
 # aws s3 mb s3://bucket-name
 use to create  s3 bucket 
